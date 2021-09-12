@@ -6,4 +6,5 @@ A new Flutter project.
 
 ### Bug 
 
-- - firestore can not stream data in release mode
+- - Firestore can not stream data in release mode
+- - Navigator use, custom subnavigator, because have few pop not working or delay
