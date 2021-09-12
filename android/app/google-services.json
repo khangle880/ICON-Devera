@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519459276708",
+    "project_id": "icon-af204",
+    "storage_bucket": "icon-af204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519459276708:android:347ca3f1bb96c2bd12a331",
+        "android_client_info": {
+          "package_name": "com.mygay.icon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519459276708-s8ksnin0njthugjopc5rds6an25hmb47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5BpUr1VkgwI8xeUW0FPD4GZVA---9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519459276708-s8ksnin0njthugjopc5rds6an25hmb47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
