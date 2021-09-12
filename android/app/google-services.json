@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "519459276708-takdmcl1dflvik3r4lcvam3vp4s8a9pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygay.icon",
+            "certificate_hash": "85122972f6ba2844120e23466d408a0cfde36245"
+          }
+        },
+        {
           "client_id": "519459276708-s8ksnin0njthugjopc5rds6an25hmb47.apps.googleusercontent.com",
           "client_type": 3
         }
